@@ -1,4 +1,6 @@
-This is quiz app, that has 13 questions. This is the first time that I implemeted MVC Design. I used PrgoressHUD, https://github.com/relatedcode/ProgressHUD,
+This is a quiz app, that has 13 questions. Based on answerinf right pr wrong, the user would get points. This is the first
+
+time that I implemeted MVC Design. I ,also, used PrgoressHUD, https://github.com/relatedcode/ProgressHUD.
 
 You can simply change the questions from the QuestionBank class and add more/less questions.
 
