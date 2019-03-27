@@ -1,2 +1,2 @@
 # IOS-Development
-These are my IOS Apps that I have made
+These are the IOS Apps that I have made
