@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BitcoinTicker
 //
-//  Created by Ali Mirabzadeh on 03/26/2018.
+//  Created by Ali Mirabzadeh on 03/26/2019.
 //  Copyright © 2019 AMZ Development. All rights reserved.
 //
 
