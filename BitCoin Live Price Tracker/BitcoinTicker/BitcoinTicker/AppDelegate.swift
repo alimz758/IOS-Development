@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BitcoinTicker
 //
-//  Created by Angela Yu on 23/01/2016.
-//  Copyright © 2016 London App Brewery. All rights reserved.
+//  Created by Ali Mirabzadeh on 03/26/2018.
+//  Copyright © 2019 AMZ Development. All rights reserved.
 //
 
 import UIKit
