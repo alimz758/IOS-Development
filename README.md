@@ -1,4 +1,4 @@
-# IOS-Development
+# iOS-Development
 These are the IOS Apps that I have made
 
 I made these apps mostly to learn different things in IOS-Development. Non of the ideas are from me. 
